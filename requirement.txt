@@ -1,0 +1,9 @@
+langchain
+flask
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchai_openai
+langchain_experimental
