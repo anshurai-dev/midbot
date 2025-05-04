@@ -2,6 +2,7 @@ sentence-transformers==2.2.2
 langchain
 flask
 pypdf
+huggingface_hub[hf_xet]
 python-dotenv
 sentence-transformers
 pinecone[grpc]
